@@ -8,4 +8,4 @@ options: [
 "Albert Einstein",
 "Marie Curiee",
 "Stephen Hawking"
-  "Linus Pauling
+  "Linus Pauling"
