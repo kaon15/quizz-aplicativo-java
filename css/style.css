@@ -1,2 +1,10 @@
 /* importing google fonts */
-/* /* @import url('htpps://fonts.googleeapis.com/css2?
+/* /* @import url('htpps://fonts.googleeapis.com/css2?family=poopins:wght@200;300;400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  boxsizing:border-box;
+   font-family: 'poopins', sans-serif 
+}
+
+  '
