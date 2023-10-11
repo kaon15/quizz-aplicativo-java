@@ -89,3 +89,15 @@ font-weight: 600;
    margin: 5px 0;
 font-size: 17px;
 }
+   .info_box .info-list .info span{
+font-weight: 600;
+color: #007bff;
+}
+.info_box .buttons {
+height: 60px;
+display: flex;
+align-items: center;
+justify-content: flex-end;
+padding: 30px;
+border-top: 1px solid lightgrey;
+}
