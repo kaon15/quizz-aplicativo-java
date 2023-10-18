@@ -2,57 +2,57 @@
 let questions = [
   {
     numb: 1,
-    question: "qual foi o clube que ganhou o munial em 2012 ?",
-    answer: "Corinthians",
+    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
+    answer: "Marie Curiee",
     options: [
-      "Corinthians",
-      "Palmeiras",
-      "Chealse",
-      "Santos"
+      "Albert Einstein",
+      "Marie Curiee",
+      "Stephen Hawking",
+      "Linus Pauling"
     ]
   },
   {
     numb: 2,
-    question: "Qual a seleção que ganhou mais copas ?",
-    answer: "Brasil",
+    question: "Qual o país mais novo do mundo?",
+    answer: "Sudão do Sul",
     options: [
-      "Alemanha",
-      "Brasil",
-      "Italia",
-      "Chile"
+      "Timor Lestet",
+      "Montenegro",
+      "Sudão do Sul",
+      "Kosovo"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do rei do futebol Pelé?",
-    answer: "Edson Arantes do Nascimento",
+    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
+    answer: "Solstício de verão",
     options: [
-      "Francisco Silva",
-      "Edson Arantes do Nascimento",
-      "Milton Nascimento",
-      "Galvão Bueno"
+      "Equinócio de outono",
+      "Solstício de inverno",
+      "Solstício de verão",
+      "Solstício de outono"
     ]
   },
   {
     numb: 4,
-    question: "Quantos Paulistas tem o Corinthians?",
-    answer: "30",
+    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
+    answer: "12",
     options: [
       "12",
-      "21",
-      "30",
-      "33"
+      "11",
+      "14",
+      "13"
     ]
   },
   {
     numb: 5,
-    question: "Qual o maior ídolo da história do Corinthians?",
-    answer: "Cassio Ramos",
+    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
+    answer: "Vênus e Urano",
     options: [
-      "Neto",
-      "Danilo",
-      "Cassio Ramos",
-      "Roger Guedes"
+      "Saturno e Júpiter",
+      "Vênus e Urano",
+      "Terra e Marte",
+      "Mercúrio e Saturno"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
